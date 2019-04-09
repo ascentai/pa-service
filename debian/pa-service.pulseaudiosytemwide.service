@@ -1,5 +1,5 @@
 [Unit]
-Description=PulseAudio Daemon
+Description=PulseAudio system wide daemon
  
 [Install]
 WantedBy=multi-user.target
